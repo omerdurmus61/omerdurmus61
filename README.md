@@ -9,7 +9,7 @@
 - **Drive kinematics and motion control** for autonomous vehicles
 - **Perception and computer vision** using OpenCV, PCL and LiDAR data 
 - **Simulation and digital twin development** in Gazebo and MATLAB/Simulink  
-- **Controller development for various types of actuators** using C++ and ROS 2 and Micro-ROS
+- **Controller development for various types of actuators** using C++, ROS 2, and Micro-ROS  
   
  📝 I’m currently learning
 
