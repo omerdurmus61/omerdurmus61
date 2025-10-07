@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Can Durmus</h1>
-<h3 align="center">Robotics Engineer | Autonomous Systems & Robotics Developer</h3>
+<h3 align="center">Robotics Engineer | Autonomous Systems & Robotics Enthusiast</h3>
 
  🔭 I’m currently working on
  
