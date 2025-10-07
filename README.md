@@ -2,13 +2,12 @@
 <h3 align="center">Robotics Engineer | Autonomous Systems & Robotics Developer</h3>
 
  🔭 I’m currently working on
-- **Autonomous driving architectures** using ROS 2 and Autoware  
+- **Autonomous driving architectures** using ROS 2, Navigation 2 and Autoware  
 - **Sensor fusion and localization** with LiDAR, IMU, and odometry data  
-- **Perception and computer vision** using OpenCV, PCL, and YOLO  
-- **Motion planning and control algorithms** (PID, MPC, trajectory optimization)  
+- **Perception and computer vision** using OpenCV, PCL and LiDAR data 
+- **Motion planning and control algorithms** (PID, MPC, LQR and trajectory optimization)  
 - **Simulation and digital twin development** in Gazebo and MATLAB/Simulink  
 - **Embedded AI and edge computing** for real-time decision making on STM32 and ESP32  
-- **Autonomous docking and recharging systems** with visual and sensor-based guidance  
 - **V2X communication and ROS 2 DDS optimization** for distributed robotic systems  
 
  📝 I’m currently learning
