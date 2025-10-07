@@ -2,21 +2,23 @@
 <h3 align="center">Robotics Engineer | Autonomous Systems & Robotics Developer</h3>
 
  🔭 I’m currently working on
+ 
+- **ROS & ROS 2 & Micro-ROS** based robotic systems  
 - **Autonomous driving architectures** using ROS 2, Navigation 2 and Autoware  
-- **Sensor fusion and localization** with LiDAR, IMU, and odometry data  
+- **Sensor fusion and localization** with LiDAR, IMU, and odometry data
+- **Drive kinematics and motion control** for autonomous vehicles
 - **Perception and computer vision** using OpenCV, PCL and LiDAR data 
-- **Motion planning and control algorithms** (PID, MPC, LQR and trajectory optimization)  
 - **Simulation and digital twin development** in Gazebo and MATLAB/Simulink  
-- **Embedded AI and edge computing** for real-time decision making on STM32 and ESP32  
-- **V2X communication and ROS 2 DDS optimization** for distributed robotic systems  
-
+- **Controller development for various types of actuators** using C++ and ROS 2 and Micro-ROS
+  
  📝 I’m currently learning
 
-- **ROS / ROS 2 / Micro-ROS** based robotic systems  
 - **Embedded system development** for autonomous robots using STM32 and ESP32  
-- **Odometry, control theory, and navigation** for differential drive robots  
+- **Odometry, control theory, and navigation** for differential and ackerman drive robots  
 - **3D LiDAR and IMU integration** for mapping and localization  
-- **Drive kinematics and motion control** for autonomous vehicles
+- **Motion planning and control algorithms** (PID, MPC, LQR and trajectory optimization)  
+- **Embedded AI and edge computing** for real-time decision making on STM32 and ESP32  
+- **ROS 2 DDS optimization** for distributed robotic systems  
    
 📫 How to reach me **omerdurmuss@gmail.com**
 
