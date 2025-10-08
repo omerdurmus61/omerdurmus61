@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,c,cpp,py,matlab,arduino,raspberrypi,bash,git,linux,opencv,qt,blender" />
+    <img src="https://skillicons.dev/icons?i=ros,c,cpp,py,matlab,arduino,raspberrypi,bash,git,linux,opencv,qt,blender,git,cmake" />
   </a>
 </p>
 
