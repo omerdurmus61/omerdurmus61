@@ -20,7 +20,7 @@
 - **Embedded AI and edge computing** for real-time decision making on STM32 and ESP32  
 - **ROS 2 DDS optimization** for distributed robotic systems  
    
-📫 How to reach me **omerdurmuss@gmail.com**
+📫 How to reach me **omercandurmuss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
