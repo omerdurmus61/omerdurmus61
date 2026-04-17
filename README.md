@@ -15,8 +15,7 @@
 
 - **Embedded system development** for autonomous robots using STM32 and ESP32  
 - **Odometry, control theory, and navigation** for differential and ackerman drive robots  
-- **3D LiDAR and IMU integration** for mapping and localization  
-- **Motion planning and control algorithms** (PID, MPC, LQR and trajectory optimization)  
+- **3D LiDAR and IMU integration** for mapping and localization    
 - **Embedded AI and edge computing** for real-time decision making on STM32 and ESP32  
 - **ROS 2 DDS optimization** for distributed robotic systems  
    
